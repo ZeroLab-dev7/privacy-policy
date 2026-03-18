@@ -1,8 +1,8 @@
 # Zero Lab Privacy Policy
 
-This Privacy Policy explains how **Zero Lab** collects, uses, and protects data across its services, including (but not limited to) Discord bots, web applications, APIs, and other development tools.
+Zero Lab is a development platform providing Discord bots, web applications, APIs, and tools.  
 
-By using any Zero Lab service, you agree to this Privacy Policy.
+This Privacy Policy explains how we collect, use, and protect your data across all our services.
 
 ---
 
