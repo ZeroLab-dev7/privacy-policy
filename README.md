@@ -4,6 +4,9 @@ Zero Lab is a development platform providing Discord bots, web applications, API
 
 This Privacy Policy explains how we collect, use, and protect your data across all our services.
 
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+![Platform](https://img.shields.io/badge/platform-multi--service-orange)
 ---
 
 ## Scope
