@@ -1,63 +1,127 @@
 # Zero Lab Privacy Policy
 
-This Privacy Policy explains what data **Zero Lab** may store, why it is stored, and who can access it.
+This Privacy Policy explains how **Zero Lab** collects, uses, and protects data across its services, including (but not limited to) Discord bots, web applications, APIs, and other development tools.
 
-By using **Zero Lab**, you agree to the terms of this Privacy Policy.
+By using any Zero Lab service, you agree to this Privacy Policy.
 
-## What information is stored?
+---
 
-Zero Lab may store the following information when required for bot functionality:
+## Scope
 
-- User IDs
-- Guild IDs
-- Channel IDs
-- Role IDs
-- Custom server prefixes
+This policy applies to all Zero Lab services, including:
+
+- Discord bots
+- Web applications
+- APIs
+- Developer tools and services
+- Support systems (e.g. Discord support server)
+
+---
+
+## What Information Is Collected?
+
+Depending on the service you use, Zero Lab may collect:
+
+### 1. Identifiers
+- User IDs (e.g. Discord ID)
+- Guild/Server IDs
+- Application-specific account IDs
+
+### 2. Configuration Data
+- Server settings (prefixes, roles, channels)
+- User preferences
+- Feature configurations
+
+### 3. Usage Data
+- Commands used
+- Feature interactions
+- Logs required for debugging and performance
+
+### 4. Moderation Data
 - Blacklist records
-- Moderation records such as mutes, kicks, and bans
-- Reminder data
-- AFK data
-- Playlist data
-- Bug report / support-related data
+- Mute, ban, or kick information
+- Admin actions (for audit/log systems)
 
-## Why is this information stored?
+### 5. User-Provided Data
+- Playlists
+- Reminders
+- AFK status
+- Any data explicitly submitted through commands or forms
 
-This information is stored only to make the bot function correctly and provide its features, including:
+⚠️ Zero Lab does **not collect sensitive personal data** unless explicitly required by a service.
 
-- Managing moderation systems
-- Storing server-specific settings
-- Re-applying roles when supported features are enabled
-- Handling reminders and AFK systems
-- Saving playlists created by users
-- Processing bug reports and support requests
-- Restricting access to commands when necessary
+---
 
-## Who can access this data?
+## Why We Collect Data
 
-Access to stored data is limited to:
+Data is collected strictly to:
 
-- **Zero Lab Developers/Admins** for maintenance, support, and moderation purposes
-- **Server administrators** for their own server’s moderation-related configurations and logs
-- **Support staff**, only where necessary for handling reports or support requests
+- Provide and maintain services
+- Enable features and configurations
+- Improve performance and reliability
+- Prevent abuse and enforce rules
+- Offer support and debugging
 
-## Data sharing
+---
 
-Zero Lab does **not sell, trade, or share your data with third parties**.
+## Data Access
 
-Your data is only used for the operation, maintenance, and improvement of the bot.
+Access to data is restricted to:
 
-## User responsibility
+- **Zero Lab Developers/Admins** (for maintenance & security)
+- **Authorized Staff** (for support cases only)
+- **Server Owners/Admins** (limited to their own server data)
 
-By inviting or using Zero Lab, you acknowledge that some server and user-related IDs may be stored as necessary for the bot’s features to operate.
+---
 
-## Questions or concerns
+## Data Sharing
 
-If you have questions or concerns about this Privacy Policy or the data stored by Zero Lab, please contact the Zero Lab support team through the official support server.
+- Zero Lab does **not sell or share user data** with third parties
+- Data may only be disclosed if required by law
 
-## Policy changes
+---
 
-Zero Lab reserves the right to update or change this Privacy Policy at any time without prior notice.
+## Data Storage & Security
 
-## Last updated
+- Data is stored securely using industry-standard practices
+- Only necessary data is retained
+- We take reasonable measures to prevent unauthorized access
+
+---
+
+## User Rights
+
+You have the right to:
+
+- Request information about stored data
+- Request deletion of your data (where applicable)
+
+To do so, contact us عبر support server.
+
+---
+
+## Third-Party Services
+
+Some Zero Lab services may rely on third-party platforms (e.g. Discord).  
+We are not responsible for their privacy practices.
+
+---
+
+## Policy Updates
+
+Zero Lab reserves the right to update this policy at any time without prior notice.
+
+---
+
+## Contact & Support
+
+For any questions or concerns:
+
+- Join the support server
+- Open a ticket
+
+---
+
+## Last Updated
 
 March 18, 2026
