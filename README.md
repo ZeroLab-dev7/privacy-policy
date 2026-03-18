@@ -1,48 +1,63 @@
-# Celestial Dev Support
+# Zero Lab Privacy Policy
 
-# Celestial-DiscordBot-PrivacyPolicy
-Privacy Policy of Celestial DiscordBot
+This Privacy Policy explains what data **Zero Lab** may store, why it is stored, and who can access it.
 
-# Privacy Policy
-
-### By using **[Celestial](https://discord.com/oauth2/authorize?client_id=1344766565387866163&scope=bot&permissions=8)**, you agree to the following **Privacy Policy.**
-#### [Invite Celestial](https://discord.com/oauth2/authorize?client_id=1344766565387866163&scope=bot&permissions=8)
+By using **Zero Lab**, you agree to the terms of this Privacy Policy.
 
 ## What information is stored?
 
-- Celestial stores your user ID if you've found a bug.
-- Celestial also stores your user ID if you were in our [Support Server](https://discord.gg/PrQFpP7Qzp)
-- If at any time you were blacklisted, temporarily or permanently from our bot, **blacklist information will be stored**.
-- When you get blacklisted **your user ID, the admin's user ID, the date, and reason are stored**.
-- If you get muted, kicked, or banned from a guild, **your user ID is stored**.
-- If your guild sets a **modlog, muted role, or prefix, the guild ID, channel ID, prefix, and/or role ID gets stored**.
-- If you leave and rejoin a guild, **your user ID is stored in order to reapply the roles** *if the module is enabled by the server administrator*.
-- If you create a playlist using the audio plugin, **your playlist and user ID are stored**.
-- If you set a reminder, **your user ID is stored**. It does not store user data that was not provided through a command.
-- If you set an AFK (away) command, **your user ID is stored**. It does not store user data that was not provided through a command.
+Zero Lab may store the following information when required for bot functionality:
 
-## Why we store the information and how we use it.
+- User IDs
+- Guild IDs
+- Channel IDs
+- Role IDs
+- Custom server prefixes
+- Blacklist records
+- Moderation records such as mutes, kicks, and bans
+- Reminder data
+- AFK data
+- Playlist data
+- Bug report / support-related data
 
-- This information is stored in order to notify the bot **if you're allowed to run certain commands or not**.
-- The muted data is stored in order **to keep you muted temporarily and to re-apply your mute if you leave and rejoin the server**.
-- The banned data is stored in order **to keep you temporarily banned and to unban after the certain defined period of time is over**.
-- The prefix and modlog information is used for the bot **to know where to send modlog messages and what prefix to respond to**.
-- The mute role information is used in order **to apply a custom muted role when someone gets muted**.
-- The profile data is stored in order **for us to put custom information on your profile**.
-- The user ID is **stored for all of the above and for the express purpose of redisplaying**.
+## Why is this information stored?
 
-## Who can read this data?
+This information is stored only to make the bot function correctly and provide its features, including:
 
-- **People can only see if you're blacklisted when commands don't work**. The **detailed information can only be seen by Celestial Admins/Developers**.
-- **All Muted, Mutedrole, Prefix, and Modlog data can be accessed by Celestial Admins/Developers**. Only **server administrators/moderators can see their own guild modlogs unless they wish to make it public**.
-- **Suggestions and/or bug reports can be seen by anyone in our [Support Server](https://discord.gg/PrQFpP7Qzp)**
+- Managing moderation systems
+- Storing server-specific settings
+- Re-applying roles when supported features are enabled
+- Handling reminders and AFK systems
+- Saving playlists created by users
+- Processing bug reports and support requests
+- Restricting access to commands when necessary
 
-## Questions and Concerns.
+## Who can access this data?
 
-If you are **concerned about the data stored or have any questions, [Join the Official Support Server](https://discord.gg/PrQFpP7Qzp)** and open a ticket.
+Access to stored data is limited to:
 
-### ***Note: __We reserve the right to change this without notifying our users.__***
-##### This policy was last updated on Monday 29th, 2024.
+- **Zero Lab Developers/Admins** for maintenance, support, and moderation purposes
+- **Server administrators** for their own server’s moderation-related configurations and logs
+- **Support staff**, only where necessary for handling reports or support requests
 
-## [Invite Celestial](https://discord.com/oauth2/authorize?client_id=1344766565387866163&scope=bot&permissions=8)
+## Data sharing
 
+Zero Lab does **not sell, trade, or share your data with third parties**.
+
+Your data is only used for the operation, maintenance, and improvement of the bot.
+
+## User responsibility
+
+By inviting or using Zero Lab, you acknowledge that some server and user-related IDs may be stored as necessary for the bot’s features to operate.
+
+## Questions or concerns
+
+If you have questions or concerns about this Privacy Policy or the data stored by Zero Lab, please contact the Zero Lab support team through the official support server.
+
+## Policy changes
+
+Zero Lab reserves the right to update or change this Privacy Policy at any time without prior notice.
+
+## Last updated
+
+March 18, 2026
