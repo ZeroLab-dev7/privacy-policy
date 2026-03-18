@@ -83,7 +83,17 @@ Access to data is restricted to:
 - Data may only be disclosed if required by law
 
 ---
+## Data Sharing
 
+- Zero Lab does not sell or share user data with third parties
+- Data may only be disclosed if required by law
+
+## Data Minimization
+
+Zero Lab only collects the minimum amount of data required for services to function properly.  
+We do not collect unnecessary or unrelated information.
+
+---
 ## Data Storage & Security
 
 - Data is stored securely using industry-standard practices
